@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on ****Job Application Tracker** – A MERN stack web app to track and manage job applications**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA), solving LeetCode problems, and exploring system design & data engineering tools**
+- ⚡ Fun fact **I enjoy building tools that solve real-world problems and love optimizing things just for fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
