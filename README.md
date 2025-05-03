@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kommireddi</h1>
-<h3 align="center">### A passionate developer and CS graduate student from India, currently studying in the USA 🇺🇸 </h3>
+<h3 align="center"> A passionate developer and CS graduate student from India, currently studying in the USA 🇺🇸 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkommireddi&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkommireddi" /> </p>
 
